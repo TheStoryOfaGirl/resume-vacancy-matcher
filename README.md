@@ -24,7 +24,7 @@
 
 ## Схема архитектуры
 
-![схема](scheme.png)
+![scheme.png](scheme.png)
 
 ## Описание архитектуры — Sequential
 
