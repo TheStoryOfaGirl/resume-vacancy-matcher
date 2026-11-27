@@ -2,62 +2,62 @@
   {
     "id": "A01",
     "resume": "Иван Петров. Python-разработчик, 4 года. Навыки: Python, Django, PostgreSQL, Docker, Git, REST API. Образование: МГУ, прикладная математика.",
-    "vacancy": "Ищем Python-разработчика. Требования: Python, Django, PostgreSQL, Docker, REST API. Опыт от 3 лет.",
+    "vacancy": "Ищем Python-разработчика (уровень middle). Требования: Python, Django, PostgreSQL, Docker, REST API. Опыт от 3 лет. Удаленка.",
     "verdict_true": "strong_match"
   },
   {
     "id": "A02",
     "resume": "Мария Сидорова. Junior Java-разработчик, 1 год. Навыки: Java, Spring Boot, MySQL, Git.",
-    "vacancy": "Ищем Java-разработчика. Требования: Java, Spring Boot, MySQL, Git. Опыт от 2 лет.",
+    "vacancy": "Ищем Java-разработчика (junior/middle). Требования: Java, Spring Boot, MySQL, Git. Опыт от 2 лет. Работа в офисе.",
     "verdict_true": "partial_match"
   },
   {
     "id": "A03",
     "resume": "Алексей Смирнов. Data Analyst, 5 лет. Навыки: SQL, Python, Pandas, Tableau, A/B тесты.",
-    "vacancy": "Ищем Data Analyst. Требования: SQL, Python, Pandas, Tableau, A/B тесты, опыт от 3 лет.",
+    "vacancy": "Ищем Data Analyst. Требования: SQL, Python, Pandas, Tableau, A/B тесты, опыт от 3 лет. Можно удаленно.",
     "verdict_true": "strong_match"
   },
   {
     "id": "A04",
     "resume": "Ольга Кузнецова. Frontend, 3 года. Навыки: JavaScript, React, Redux, HTML, CSS.",
-    "vacancy": "Ищем Frontend. Требования: JavaScript, React, Redux, CSS. Опыт от 2 лет.",
+    "vacancy": "Ищем Frontend-разработчика. Требования: JavaScript, React, Redux, CSS. Опыт от 2 лет. Открыта 1 позиция.",
     "verdict_true": "strong_match"
   },
   {
     "id": "A05",
     "resume": "Дмитрий Орлов. DevOps, 6 лет. Навыки: Kubernetes, Docker, Terraform, AWS, CI/CD, Linux.",
-    "vacancy": "Ищем DevOps. Требования: Kubernetes, Docker, Terraform, AWS, CI/CD, Linux. Опыт от 4 лет.",
+    "vacancy": "Ищем DevOps-инженера. Требования: Kubernetes, Docker, Terraform, AWS, CI/CD, Linux. Опыт от 4 лет. Удаленка.",
     "verdict_true": "strong_match"
   },
   {
     "id": "A06",
     "resume": "Елена Морозова. PM, 2 года. Навыки: Agile, Scrum, Jira, коммуникация. Вела два веб-проекта.",
-    "vacancy": "Ищем Senior PM. Требования: опыт от 5 лет, команда 10+, бюджеты, Agile/Scrum, Jira, английский B2+.",
+    "vacancy": "Ищем Senior PM. Требования: опыт от 5 лет, команда 10+, управление бюджетами, Agile/Scrum, Jira, английский B2+. Офис.",
     "verdict_true": "weak_match"
   },
   {
     "id": "A07",
     "resume": "Сергей Волков. Backend, 7 лет. Навыки: Go, Python, PostgreSQL, Kafka, gRPC, микросервисы, менторинг.",
-    "vacancy": "Ищем Senior Backend. Требования: Go, Python, PostgreSQL, Kafka, gRPC, микросервисы, менторинг, опыт от 5 лет.",
+    "vacancy": "Ищем Senior Backend-разработчика. Требования: Go, Python, PostgreSQL, Kafka, gRPC, микросервисы, менторинг, опыт от 5 лет.",
     "verdict_true": "strong_match"
   },
   {
     "id": "A08",
     "resume": "Наталья Белова. QA, 4 года. Навыки: ручное тестирование, Postman, SQL, Jira, тест-кейсы.",
-    "vacancy": "Ищем QA Automation. Требования: Python, Pytest, Selenium, CI/CD, Postman, опыт от 3 лет.",
+    "vacancy": "Ищем QA Automation (middle). Требования: Python, Pytest, Selenium, CI/CD, Postman, опыт от 3 лет.",
     "verdict_true": "weak_match"
   },
   {
     "id": "A09",
     "resume": "Анна Романова. Senior ML Engineer, 8 лет. Навыки: Python, ML, NLP, PyTorch. Про MLOps и Kubeflow в резюме ничего.",
-    "vacancy": "Ищем Senior ML Engineer. Требования: Python, ML, NLP, PyTorch, MLOps, Kubeflow, опыт от 5 лет.",
+    "vacancy": "Ищем Senior ML Engineer. Требования: Python, ML, NLP, PyTorch, MLOps, Kubeflow, опыт от 5 лет. Удаленная работа.",
     "verdict_true": "partial_match",
     "ambiguous": true
   },
   {
     "id": "A10",
     "resume": "Павел Зайцев. Backend, 6 лет. Навыки: PHP, Laravel, MySQL, Redis. Полгода изучает Go, пет-проект на Go + PostgreSQL.",
-    "vacancy": "Ищем Go-разработчика. Требования: Go, PostgreSQL, Redis, микросервисы, опыт от 3 лет.",
+    "vacancy": "Ищем Go-разработчика (middle+). Требования: Go, PostgreSQL, Redis, микросервисы, опыт от 3 лет. Набираем 2 человека.",
     "verdict_true": "partial_match",
     "ambiguous": true
   }
