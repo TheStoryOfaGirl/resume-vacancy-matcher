@@ -52,7 +52,7 @@ GIGACHAT_MODEL=GigaChat-2
 
 ```
 python -m venv .venv
-.venv\Scripts\activat
+.venv\Scripts\activate
 ```
 
 
@@ -66,6 +66,18 @@ python -m pip install -r requirements.txt
 set PYTHONPATH=src
 python -m rvmatcher.cli
 ```
+
+## Сценарии запуска
+
+CLI поддерживает несколько сценариев через позиционный аргумент:
+
+| Команда | Что делает |
+|---|---|
+| `python -m rvmatcher.cli` | Автоматически запустит `hw1` (ДЗ 1) |
+| `python -m rvmatcher.cli hw1` | Явный запуск ДЗ 1 |
+| `python -m rvmatcher.cli hw2-success` | ДЗ 2, успешный сценарий |
+| `python -m rvmatcher.cli hw2-invalid` | ДЗ 2, некорректный результат |
+| `python -m rvmatcher.cli hw2-retry` | ДЗ 2, исчерпание retry |
 
 ## ПРИМЕЧАНИЕ
 
